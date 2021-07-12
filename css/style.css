@@ -1903,7 +1903,7 @@ div.fancybox.stretch>p img {
   padding: 4px 2rem;
   border-radius: 4px;
   background: #f1f1f1;
-  color: var(--color-card);
+  color: var(--color-text);
   line-height: 2;
   font-size: 14px;
   transition: all 0.28s ease;
@@ -2024,10 +2024,10 @@ div.fancybox.stretch>p img {
   color: var(--color-hover);
 }
 .l_main #comments #valine_container .vinput {
-  color: var(--color-card);
+  color: var(--color-text);
 }
 .l_main #comments #valine_container p {
-  color: var(--color-card);
+  color: var(--color-text);
 }
 #archive-page {
   margin-bottom: 32px;
